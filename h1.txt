@@ -2,3 +2,4 @@ initialize git
 with readme file to
 describe repository
 fetch
+pull
